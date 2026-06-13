@@ -102,7 +102,7 @@ ORDER BY observations DESC;
 
 ---
 
-## 📈 Key Insights
+Key Insights
 
 * **Bald Eagles** show strong growth in recorded observations over time, consistent with known conservation recovery trends.
 * **Gray Wolves** exhibit fluctuating observation patterns, likely influenced by regional policy and habitat factors.
