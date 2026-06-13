@@ -1,6 +1,6 @@
-# 🐾 Wildlife Observation Trend Analysis
+Wildlife Observation Trend Analysis
 
-## 📌 Overview
+Overview
 
 This project analyzes wildlife observation data from the Global Biodiversity Information Facility to identify temporal and geographic patterns in species sightings.
 
@@ -14,7 +14,7 @@ The goal is to explore **how observation patterns change over time and across re
 
 ---
 
-## 🎯 Objectives
+Objectives
 
 * Ingest and process large-scale biodiversity data (~750MB)
 * Clean and standardize inconsistent real-world data
@@ -25,7 +25,7 @@ The goal is to explore **how observation patterns change over time and across re
 
 ---
 
-## 🧱 Tech Stack
+Tech Stack
 
 * **Python** (Pandas, PyMySQL)
 * **MySQL** (data storage, indexing, querying)
@@ -34,17 +34,17 @@ The goal is to explore **how observation patterns change over time and across re
 
 ---
 
-## 📥 Data Source
+Data Source
 
 * Global Biodiversity Information Facility
 
 GBIF provides **occurrence (observation) data**, which represents recorded sightings or evidence of species at a specific place and time.
 
-> ⚠️ Important: This dataset reflects **observation activity**, not actual population size.
+Important: This dataset reflects **observation activity**, not actual population size.
 
 ---
 
-## ⚙️ Data Pipeline
+Data Pipeline
 
 ### 1. Data Extraction
 
@@ -73,7 +73,7 @@ GBIF provides **occurrence (observation) data**, which represents recorded sight
 
 ---
 
-## 📊 Analysis
+Analysis
 
 ### Temporal Trends
 
@@ -110,7 +110,7 @@ ORDER BY observations DESC;
 
 ---
 
-## ⚠️ Data Limitations
+Data Limitations
 
 * GBIF data represents **observations**, not actual population counts.
 * Trends may be influenced by:
@@ -122,7 +122,7 @@ ORDER BY observations DESC;
 
 ---
 
-## 🧠 Key Takeaway
+Key Takeaway
 
 This project demonstrates how to work with **large, real-world datasets** and extract meaningful insights while properly accounting for data limitations.
 
@@ -130,7 +130,7 @@ This project demonstrates how to work with **large, real-world datasets** and ex
 
 ---
 
-## 🚀 Future Improvements
+Future Improvements
 
 * Integrate conservation status from the IUCN Red List
 * Build an interactive dashboard for visualization
@@ -139,7 +139,7 @@ This project demonstrates how to work with **large, real-world datasets** and ex
 
 ---
 
-## 📂 Project Structure
+Project Structure
 
 ```
 WildlifePopulationAnalysis/
@@ -162,7 +162,7 @@ WildlifePopulationAnalysis/
 
 ---
 
-## 💼 Portfolio Value
+Portfolio Value
 
 This project highlights:
 
@@ -174,6 +174,6 @@ This project highlights:
 
 ---
 
-## 📬 Contact
+Contact
 
 Feel free to connect or reach out for collaboration or questions.
