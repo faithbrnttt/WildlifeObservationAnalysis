@@ -1,5 +1,7 @@
 Wildlife Observation Trend Analysis
 
+<img width="1305" height="768" alt="wildlife_siting_visual" src="https://github.com/user-attachments/assets/9fe30a88-ceab-4a4c-9f52-76922fb03558" />
+
 Overview
 
 This project analyzes wildlife observation data from the Global Biodiversity Information Facility to identify temporal and geographic patterns in species sightings.
